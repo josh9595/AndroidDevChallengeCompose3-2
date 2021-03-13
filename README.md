@@ -5,16 +5,16 @@
 
 ## :scroll: Description
 This is my implementation of the EMEA friendly zone for the third Jetpack Compose Android Dev Challenge, Jetpace Compose: 2 Jet 2 Pack!
-It features the UI of the _ app using compose to create the designs as a functioning UI.
+It features the UI of the My Soothe app, using compose to create the designs as a functioning UI.
 
 
 ## :bulb: Motivation and Context
-This challenge provided a great insight into what developing with Compose to match designs would be like when we will be using it as part of a team, in production for our apps and really highlighted just how easy it can be!
+This challenge provided a great insight into what developing with Compose to match designs would be like, especially for when we will be using it as part of a team!
 
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">&emsp;<img src="/results/screenshot_3.png" width="260">
 
 ## License
 ```
